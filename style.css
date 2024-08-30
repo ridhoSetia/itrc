@@ -784,7 +784,7 @@ mark {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  font-size: 25px;
+  font-size: 45px;
   transition: all 0.25s ease;
 }
 
@@ -801,7 +801,7 @@ mark {
 }
 
 .look i:hover {
-  scale: 1.5;
+  scale: 1.3;
 }
 
 .achievement_detail {
@@ -838,7 +838,7 @@ mark {
 
 .achiev {
   background: var(--bg-color);
-  box-shadow: 0 5px 15px rgb(0, 0, 0, 0.25);
+  box-shadow: 0 5px 15px rgb(0, 0, 0, 0.1);
   border-radius: 10px;
   text-align: center;
   margin: 10px;
