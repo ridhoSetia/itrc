@@ -1,0 +1,129 @@
+[
+    {
+        "adsDetail": {
+            "title": "",
+            "headerImg": "",
+            "headerAlt": "",
+            "description": "",
+            "trophy": "",
+            "tools": [
+                {
+                    "name": "",
+                    "description": "",
+                    "img": "",
+                    "style": ""
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "img": "",
+                    "style": ""
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "img": "",
+                    "style": ""
+                }
+            ],
+            "karya": [
+                {
+                    "img": "img/poster9.png",
+                    "description": "Poster karya, <mark>Arinda Zhafira S dan Emiliya Yusmani</mark>"
+                },
+                {
+                    "img": "img/poster10.png",
+                    "description": "Poster karya, <mark>M. Rafli Nur Fathan dan Iqbal Fahrozi</mark> mendapat <mark>Juara Favorit</mark> pada Medicraft Event Mulawarman Medical Fair 2020"
+                },
+                {
+                    "img": "img/poster12.png",
+                    "description": "Poster karya, <mark>Afrisya Hardianto P dan M. Rafli Nur F</mark>"
+                },
+                {
+                    "img": "img/poster13.png",
+                    "description": "Poster karya, <mark>Fiqhi Rhivano A dan Rika Saputri</mark>"
+                },
+                {
+                    "img": "img/poster14.png",
+                    "description": "Poster karya, <mark>Afrisya Hardianto P</mark> berhasil <mark>menembus Finalis</mark> tingkat provinsi Kaltim Kaltara OSAGI 2021"
+                },
+                {
+                    "img": "img/poster15.png",
+                    "description": "Poster karya, <mark>Rayhan Alfin D</mark> berhasil <mark>menembus Finalis</mark> tingkat provinsi Kaltim Kaltara OSAGI 2021"
+                },
+                {
+                    "img": "img/poster16.png",
+                    "description": "Poster karya, <mark>Rayhan Alfin D</mark>"
+                },
+                {
+                    "img": "img/poster17.png",
+                    "description": "Poster karya, <mark>Afrisya Hardianto P</mark>"
+                },
+                {
+                    "img": "img/poster18.png",
+                    "description": "Poster karya, <mark>Iqbal Fahrozi dan M. Rafli Nur Fathan</mark>"
+                },
+                {
+                    "img": "img/poster19.png",
+                    "description": "Poster karya, <mark>Afrisya Hardianto P dan Rika Saputri</mark>"
+                },
+                {
+                    "img": "img/poster20.png",
+                    "description": "Poster karya, <mark>Najwa Aisha Z, Rika Saputri, dan Siti Kumala M</mark> berhasil <mark>menembus Finalis</mark> Poster UGM tingkat nasional"
+                },
+                {
+                    "img": "img/poster21.png",
+                    "description": "Poster karya, <mark>Afrisya Hardianto P dan Zahra Aulia N</mark>"
+                },
+                {
+                    "img": "img/poster22.png",
+                    "description": "Poster karya, <mark>Iqbal Fahrozi dan M. Rafli Nur Fathan</mark> mendapat <mark>Juara 1</mark> Kompetisi Poster Pekan Fisika 2021"
+                },
+                {
+                    "img": "img/poster23.png",
+                    "description": "Poster karya, <mark>Najwa Aisha Z dan Rika Saputri</mark> mendapat <mark>Juara 2</mark> Kompetisi Poster Pekan Fisika 2021"
+                },
+                {
+                    "img": "img/poster24.jpg",
+                    "description": "Poster karya, <mark>Faris Fadillah dan Rayhan Alfin D</mark>"
+                },
+                {
+                    "img": "img/poster1.jpeg",
+                    "description": "Poster karya, <mark>Ridho Setiawan</mark>"
+                },
+                {
+                    "img": "img/poster2.jpeg",
+                    "description": "Poster karya, <mark>Ridho Setiawan</mark>"
+                },
+                {
+                    "img": "img/poster4.jpeg",
+                    "description": "Poster karya, <mark>Sofia Novebri Gittalia, Cemong, dan Fira</mark>"
+                },
+                {
+                    "img": "img/poster3.jpeg",
+                    "description": "Poster karya, <mark>Ridho Setiawan</mark>"
+                },
+                {
+                    "img": "img/poster5.jpeg",
+                    "description": "Poster karya, <mark>Arinda Zhafira S, Sania, dan Fira</mark> mendapat <mark>juara 1</mark> dalam kompetisi Poster Matematika ITK 2022"
+                },
+                {
+                    "img": "img/poster6.jpeg",
+                    "description": "Poster karya, <mark>Sofia Novebri Gittalia dan Riani</mark> mendapat <mark>juara 2</mark> dalam kompetisi Poster Pekan Fisika Unmul 2023"
+                },
+                {
+                    "img": "img/poster7.jpeg",
+                    "description": "Poster karya, <mark>M. Fauzil dan Cinta Kanesia Putri</mark>"
+                },
+                {
+                    "img": "img/poster8.jpeg",
+                    "description": "Poster karya, <mark>Sofia Novebri Gittalia</mark> berhasil <mark>menembus Finalis</mark> pada kompetisi Poster IMPACT ITK 2023"
+                },
+                {
+                    "img": "img/poster11.jpeg",
+                    "description": "Poster karya, <mark>Sofia Novebri Gittalia dan Salsabilla Azzahra</mark>"
+                }
+            ]
+        }
+    }
+]

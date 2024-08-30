@@ -1,0 +1,87 @@
+[
+    {
+      "gsDetail": {
+        "title": "GS Master",
+        "headerImg": "img/gs_master.png",
+        "headerAlt": "logo Gs Master",
+        "description": 
+          "Divisi GS Master (Game Software Master) merupakan salah satu divisi dalam ITRC yang mempelajari dan membahas pembuatan game",
+        "trophy": "1 🏆 Trophy",
+        "tools": [
+          {
+            "name": "Ren'Py",
+            "description": 
+              "Game engine yang digunakan untuk membuat game visual novel",
+            "img": "img/ren'py.jpeg",
+            "style": ""
+          },
+          {
+            "name": "VS Code",
+            "description": 
+              "Code editor yang biasa digunakan dalam menulis kode program",
+            "img": "img/vscode.jpeg",
+            "style": ""
+          },
+          {
+            "name": "RPG Maker MZ",
+            "description": 
+              "Game engine yang digunakan untuk membuat game rpg pixel",
+            "img": "img/rpg_maker.jpg",
+            "style": ""
+          }
+        ],
+        "produk": [
+          {
+            "name": "SICAKUNG",
+            "description": 
+              "SICAKUNG (Mitigasi Bencana Lingkungan), merupakan board game karya <mark>Faris Fadillah</mark> dan berhasil mendapat <mark>Juara 2</mark> dalam kompetisi Duta Pelajar Sadar Hukum tingkat Kabupaten 2022",
+            "img": "img/sicakung.jpeg",
+            "link": "<a href=\"\">Mainkan di Perpustakan</a>",
+            "style": ""
+          },
+          {
+            "name": "JEDUG",
+            "description": 
+              "JEDUG (Jerat Pendengung), merupakan game visual novel karya <mark>M. Nazriel Satriyani</mark> dan berhasil menembus <mark>finalis</mark> dalam kompetisi Duta Pelajar Sadar Hukum tingkat Kabupaten 2022",
+            "img": "img/logo_jedug.png",
+            "link": 
+                "<a href=\"https://drive.google.com/drive/folders/1WzDF2R13Qr--OuWMlUqG6RxcHmUarESD?usp=sharing\">Link Download PC</a> <button style=\"margin-left: 3px;\"><a href=\"https://drive.google.com/drive/folders/13XVk5qM4DRZNvl2WjVUGwA4rE1Ac6R25?usp=sharing\">Link Download Android</a></button>",
+            "style": ""
+          },
+          {
+            "name": "ADITA",
+            "description": 
+              "ADITA (Akad Dagang Islam Kita), game Rpg Pixel karya <mark>Andi Azzumar Azra dan Amin Thohari</mark>, yang berhasil menembus <mark>30 besar</mark> dalam kompetisi MYRES tingkat Nasional 2023",
+            "img": "img/logo_adita.png",
+            "link": "<a href=\"https://adita-itrc.itch.io/adita-akad-dagang-islam-kita\" target=\"_blank\">Mainkan</a>",
+            "style": ""
+          },
+          {
+            "name": "TAMAN",
+            "description": 
+              "TAMAN (Tangga Pertemanan Anti Bullying), merupakan Web Game karya <mark>Ridho Setiawan</mark> dan berhasil menembus <mark>finalis</mark> dalam kompetisi Duta Pelajar Sadar Hukum tingkat Kabupaten 2023",
+            "img": "img/taman_logo.png",
+            "link": "<a href=\"\">Web Error</a>",
+            "style": "only_logo"
+          },
+          {
+            "name": "UTAKES",
+            "description": 
+              "UTAKES (Ular Tangga Kesehatan), merupakan Web Game karya <mark>Ridho Setiawan</mark>, hasil modifikasi dan evaluasi pada Web Game TAMAN",
+            "img": "img/utakes_logo.png",
+            "link": "<a href=\"https://utakes.vercel.app\">Mainkan</a>",
+            "style": "only_logo fix"
+          },
+          {
+            "name": "Jurnal Sang Epidemiolog",
+            "description": 
+              "Jurnal Sang Epidemiolog, merupakan game rpg karya Diandra Naufal dan Al Hajj yang menceritakan tentang cara mengatasi penyakit DBD",
+            "img": "img/test.png",
+            "link": "<a href=\"\">Mainkan</a>",
+            "style": ""
+          }
+        ]
+      }
+    }
+  ]
+  

@@ -1,0 +1,54 @@
+[
+    {
+      "aiDetail": {
+        "title": "AI Robotic",
+        "headerImg": "img/ai_robotic.png",
+        "headerAlt": "logo AI Robotic",
+        "description": 
+          "Divisi AI Robotic merupakan salah satu divisi dalam ITRC yang mempelajari dan membahas dunia robotik",
+        "trophy": "1 🏆 Trophy",
+        "tools": [
+          {
+            "name": "Arduino",
+            "description": 
+              "Pengendali mikro dengan papan tunggal yang berfungsi dalam proyek perangkat lunak open source. Fungsi utama dari Arduino untuk memudahkan penggunaan elektronik dalam berbagai bidang.",
+            "img": "img/arduino.png",
+            "style": "arduino"
+          },
+          {
+            "name": "VS Code",
+            "description": 
+              "Code editor yang biasa digunakan dalam menulis kode program",
+            "img": "img/vscode.jpeg",
+            "style": ""
+          },
+          {
+            "name": "Tinkercad",
+            "description": 
+              "Website yang biasa digunakan untuk membuat simulasi elektronika",
+            "img": "img/tinkercad.png",
+            "style": ""
+          }
+        ],
+        "produk": [
+          {
+            "name": "LCGO",
+            "description": 
+              "LCGO, merupakan robot sistem pintu otomatis sensor cahaya karya <mark>M. Fauzil dan M. Arya Satya</mark> yang diikutkan dalam kompetisi <mark>MRC</mark>",
+            "img": "img/lcgo.jpeg",
+            "link": "<a href=\"\">Mainkan di Perpustakaan</a>",
+            "style": ""
+          },
+          {
+            "name": "SAMA",
+            "description": 
+              "SAMA (Sahabat Anak Madrasah), merupakan Web Konseling karya <mark>Ridho Setiawan dengan arahan Pak Bekti</mark> dan berhasil mendapat <mark>Juara 1</mark> dalam kompetisi Karya Tulis Ilmiah Pekan Fisika tingkat Provinsi 2022 ",
+            "img": "img/SAMA.png",
+            "link": "<a href=\"\">Web Error</a>",
+            "style": "only_logo s"
+          }
+        ]
+      }
+    }
+  ]
+  
