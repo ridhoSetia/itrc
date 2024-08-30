@@ -419,7 +419,7 @@ section {
 .box:nth-child(3)::before {
   content: "";
   position: absolute;
-  background-color: #7A1CAC;
+  background-color: #55679C;
   width: 110%;
   left: -20px;
   height: 60px;
@@ -428,7 +428,7 @@ section {
 }
 
 .box:nth-child(4) {
-  background-color: #7A1CAC;
+  background-color: #55679C;
   min-height: 150px;
   height: 100%;
   text-align: left;

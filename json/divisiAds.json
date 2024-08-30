@@ -1,28 +1,28 @@
 [
     {
         "adsDetail": {
-            "title": "",
-            "headerImg": "",
-            "headerAlt": "",
-            "description": "",
-            "trophy": "",
+            "title": "Ads Creator",
+            "headerImg": "img/ads_creator.png",
+            "headerAlt": "logo Ads Creator",
+            "description": "Divisi Ads Creator merupakan salah satu divisi dalam ITRC yang mempelajari dan membahas animating, ilustrating, dan desain",
+            "trophy": "5 🏆 Trophy",
             "tools": [
                 {
-                    "name": "",
-                    "description": "",
-                    "img": "",
+                    "name": "FlipaClip",
+                    "description": "Aplikasi yang biasa digunakan dalam pembuatan animasi frame by frame",
+                    "img": "img/flipaclip.png",
                     "style": ""
                 },
                 {
-                    "name": "",
-                    "description": "",
-                    "img": "",
-                    "style": ""
+                    "name": "Ibis Paint",
+                    "description": "Aplikasi yang biasa digunakan untuk menggambar dan desain",
+                    "img": "img/ibispaint.jpeg",
+                    "style": "only_logo"
                 },
                 {
-                    "name": "",
-                    "description": "",
-                    "img": "",
+                    "name": "Corel Draw",
+                    "description": "Aplikasi yang biasa digunakan dalam melakukan desain yang membutuhkan detail tinggi",
+                    "img": "img/coreldraw.jpeg",
                     "style": ""
                 }
             ],
